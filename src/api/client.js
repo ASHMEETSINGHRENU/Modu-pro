@@ -2,7 +2,9 @@ import { products } from '../data/productsData.js';
 import { services } from '../data/servicesData.js';
 import { industries } from '../data/industriesData.js';
 
-const API_BASE = '/api';
+const API_BASE = import.meta.env.VITE_API_URL
+  ? `${import.meta.env.VITE_API_URL.replace(/\/+$/, '')}/api`
+  : '/api';
 
 export const submitEnquiry = async (formData) => {
   try {

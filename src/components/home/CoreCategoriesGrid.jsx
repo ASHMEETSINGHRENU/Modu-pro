@@ -43,10 +43,7 @@ export const CoreCategoriesGrid = () => {
                   </div>
 
                   {/* Availability Badge */}
-                  <div className="absolute top-4 right-4 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-[#47704C]/10 border border-[#47704C]/20 text-[#47704C] font-semibold text-[11px]">
-                    <CheckCircle2 className="w-3 h-3 text-[#47704C]" />
-                    <span>Product Available: Yes</span>
-                  </div>
+
                 </div>
 
                 {/* Body Content */}

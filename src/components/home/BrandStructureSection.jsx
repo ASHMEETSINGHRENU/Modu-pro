@@ -34,14 +34,7 @@ export const BrandStructureSection = () => {
             {/* Sub-Category 1: ADHHESI PRO */}
             <div className="p-5 rounded-xl border border-[#47704C]/30 bg-[#47704C]/5 space-y-3 flex flex-col justify-between">
               <div>
-                <div className="flex items-center justify-between">
-                  <span className="text-[11px] font-bold text-[#47704C] uppercase tracking-wider">
-                    Sub-Category 01
-                  </span>
-                  <span className="text-[10px] bg-[#47704C] text-white px-2 py-0.5 rounded font-semibold">
-                    Product Available: Yes
-                  </span>
-                </div>
+
                 <h4 className="text-lg font-bold text-[#1F241F] mt-1">1. Adhhesi pro</h4>
                 <p className="text-xs text-[#636D64] leading-relaxed">
                   Manufacturing of PVAC white glue established in 2015, supplying to modular furniture, kitchens, doors, and woodworking industries:
@@ -83,14 +76,7 @@ export const BrandStructureSection = () => {
             {/* Sub-Category 2: Wood working tools */}
             <div className="p-5 rounded-xl border border-[#8C460C]/30 bg-[#8C460C]/5 space-y-3 flex flex-col justify-between">
               <div>
-                <div className="flex items-center justify-between">
-                  <span className="text-[11px] font-bold text-[#8C460C] uppercase tracking-wider">
-                    Sub-Category 02
-                  </span>
-                  <span className="text-[10px] bg-[#8C460C] text-white px-2 py-0.5 rounded font-semibold">
-                    Product Available: Yes
-                  </span>
-                </div>
+
                 <h4 className="text-lg font-bold text-[#1F241F] mt-1">2. Wood working tools</h4>
                 <p className="text-[11px] font-semibold text-[#8C460C]">
                   Edge banding, CNC, Panel saw, cold/hot press machines, etc.
@@ -135,14 +121,7 @@ export const BrandStructureSection = () => {
             {/* Sub-Category 3: Panel processing machines */}
             <div className="p-5 rounded-xl border border-[#E5E0D8] bg-white space-y-3 flex flex-col justify-between">
               <div>
-                <div className="flex items-center justify-between">
-                  <span className="text-[11px] font-bold text-[#1F241F] uppercase tracking-wider">
-                    Sub-Category 03
-                  </span>
-                  <span className="text-[10px] bg-[#47704C] text-white px-2 py-0.5 rounded font-semibold">
-                    Product Available: Yes
-                  </span>
-                </div>
+
                 <h4 className="text-lg font-bold text-[#1F241F] mt-1">3. Panel processing machines</h4>
                 <p className="text-xs text-[#636D64] leading-relaxed">
                   Supplying heavy-duty industrial panel processing machinery:
@@ -170,14 +149,7 @@ export const BrandStructureSection = () => {
             {/* Sub-Category 4: PVC edge banding tapes and hardware */}
             <div className="p-5 rounded-xl border border-[#E5E0D8] bg-white space-y-3 flex flex-col justify-between">
               <div>
-                <div className="flex items-center justify-between">
-                  <span className="text-[11px] font-bold text-[#1F241F] uppercase tracking-wider">
-                    Sub-Category 04
-                  </span>
-                  <span className="text-[10px] bg-[#47704C] text-white px-2 py-0.5 rounded font-semibold">
-                    Product Available: Yes
-                  </span>
-                </div>
+
                 <h4 className="text-lg font-bold text-[#1F241F] mt-1">
                   4. PVC edge banding tapes & hardware
                 </h4>
@@ -207,14 +179,7 @@ export const BrandStructureSection = () => {
             {/* Sub-Category 5: Panel processing machines, and its spares */}
             <div className="p-5 rounded-xl border border-[#47704C]/30 bg-[#47704C]/5 space-y-3 flex flex-col justify-between md:col-span-2 lg:col-span-2">
               <div>
-                <div className="flex items-center justify-between">
-                  <span className="text-[11px] font-bold text-[#47704C] uppercase tracking-wider">
-                    Sub-Category 05
-                  </span>
-                  <span className="text-[10px] bg-[#47704C] text-white px-2 py-0.5 rounded font-semibold">
-                    Product Available: Yes
-                  </span>
-                </div>
+
                 <h4 className="text-lg font-bold text-[#1F241F] mt-1">
                   5. Panel processing machines, and its spares
                 </h4>

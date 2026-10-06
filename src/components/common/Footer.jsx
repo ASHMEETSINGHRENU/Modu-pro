@@ -133,33 +133,33 @@ export const Footer = ({ onOpenQuote }) => {
             </h5>
             <ul className="space-y-2.5 text-sm text-white/80">
               <li>
-                <Link to="/products?category=adhesives" className="hover:text-white transition-colors">
-                  Industrial Adhesives
+                <Link to="/products?category=adhhesi-pro" className="hover:text-white transition-colors">
+                  1. Adhhesi pro
                 </Link>
               </li>
               <li>
                 <Link to="/products?category=woodworking-tools" className="hover:text-white transition-colors">
-                  Woodworking Tools
+                  2. Wood working tools
                 </Link>
               </li>
               <li>
-                <Link to="/products?category=machinery" className="hover:text-white transition-colors">
-                  Woodworking Machinery
+                <Link to="/products?category=panel-processing-machines" className="hover:text-white transition-colors">
+                  3. Panel processing machines
                 </Link>
               </li>
               <li>
-                <Link to="/products?category=machine-spares" className="hover:text-white transition-colors">
-                  Machine Spares
+                <Link to="/products?category=pvc-edge-banding-hardware" className="hover:text-white transition-colors">
+                  4. PVC edge banding & hardware
                 </Link>
               </li>
               <li>
-                <Link to="/products?category=edge-banding-hardware" className="hover:text-white transition-colors">
-                  PVC Edge Banding
+                <Link to="/products?category=machine-spares-services" className="hover:text-white transition-colors">
+                  5. Panel processing machines & spares
                 </Link>
               </li>
               <li>
                 <Link to="/services" className="hover:text-white transition-colors">
-                  Machine Servicing
+                  Field Machine Servicing
                 </Link>
               </li>
             </ul>

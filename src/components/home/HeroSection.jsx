@@ -144,9 +144,9 @@ export const HeroSection = ({ onOpenQuote }) => {
                   </p>
                 </div>
                 <Link
-                  to="/products?category=adhesives"
+                  to="/products?category=adhhesi-pro"
                   className="p-2 rounded-lg bg-[#F7F4EF] hover:bg-[#8C460C] hover:text-white text-[#8C460C] transition-colors shrink-0"
-                  aria-label="View adhesives range"
+                  aria-label="View Adhhesi pro range"
                 >
                   <ArrowRight className="w-4 h-4" />
                 </Link>

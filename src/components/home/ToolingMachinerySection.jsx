@@ -104,14 +104,14 @@ export const ToolingMachinerySection = ({ onOpenQuote }) => {
 
             <div className="pt-6 mt-6 border-t border-[#E5E0D8] flex items-center justify-between">
               <Link
-                to="/products?category=machinery"
+                to="/products?category=panel-processing-machines"
                 className="text-xs font-bold text-[#47704C] hover:underline inline-flex items-center gap-1"
               >
                 <span>Browse Machinery</span>
                 <ArrowRight className="w-3.5 h-3.5" />
               </Link>
               <button
-                onClick={() => onOpenQuote('Woodworking Machinery', 'Machinery Inquiry')}
+                onClick={() => onOpenQuote('Panel Processing Machines', 'Machinery Inquiry')}
                 className="text-xs text-[#636D64] hover:text-[#1F241F] font-semibold"
               >
                 Request Quotation
@@ -156,7 +156,7 @@ export const ToolingMachinerySection = ({ onOpenQuote }) => {
 
             <div className="pt-6 mt-6 border-t border-[#E5E0D8] flex items-center justify-between">
               <Link
-                to="/products?category=edge-banding-hardware"
+                to="/products?category=pvc-edge-banding-hardware"
                 className="text-xs font-bold text-[#8C460C] hover:underline inline-flex items-center gap-1"
               >
                 <span>Browse Hardware</span>

@@ -23,10 +23,10 @@ export const FeaturedAdhesivesSection = ({ onOpenQuote }) => {
           />
 
           <Link
-            to="/products?category=adhesives"
+            to="/products?category=adhhesi-pro"
             className="inline-flex items-center gap-1.5 text-sm font-bold text-[#8C460C] hover:text-[#703709] transition-colors shrink-0"
           >
-            <span>View All Adhesives (12)</span>
+            <span>View All Adhesives (11)</span>
             <ArrowRight className="w-4 h-4" />
           </Link>
         </div>

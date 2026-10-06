@@ -20,7 +20,7 @@ export const BrandHierarchyBadge = () => {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {companyData.brandHierarchy.subBrands.map((brand, idx) => (
+        {(companyData.brandHierarchy.subCategories || companyData.brandHierarchy.subBrands || []).map((brand, idx) => (
           <div
             key={idx}
             className="p-3.5 rounded-lg border border-[#E5E0D8] bg-[#F7F4EF]/50 hover:bg-[#F7F4EF] transition-colors"
